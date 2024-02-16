@@ -1,3 +1,5 @@
+package sjp.msc.cs;
+
 public class Car
 {
   private String model;
